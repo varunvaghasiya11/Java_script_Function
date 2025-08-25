@@ -75,7 +75,7 @@ let Fahrenheit = (c)=>{
     return (c*1.8)+32;
 }
 var ans = Fahrenheit(50);
-document.write("celsius is :- ",ans);
+document.write("Fahrenheit is :- ",ans);
 
 document.write("<br/>");
 
